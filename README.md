@@ -48,6 +48,28 @@ Three main functions of the device
 2) GPS Modem (NEO6MV2)
 3) ESP8266 Wifi Module
 
+# Sensors
+
+1) Pulse Rate Heartbeat Sensor Module
+2) Temperature Sensor Module
+3) Blood Pressure Sensor - GSR V1.1
+
+
+# SECURITY CONCERNS
+
+Authentication
+User1 & User2 should enter the password to get access to the device and the monitoring system respectively.
+
+Encryption
+Communication between IoT device and cloud will be encrypted (AWS Encryption SDK)
+
+Firewall
+Relevant Firewalls will be configured to  ESP8266 wifi module
+
+
+
+
+
 
 
 
