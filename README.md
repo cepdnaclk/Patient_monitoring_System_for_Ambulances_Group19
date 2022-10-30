@@ -20,4 +20,28 @@ Huge in size
 
 Monitoring particular disease only
 
+# PROPOSED METHOD
+
+Data of patient health can be sent to a longer distance through the cloud
+
+Find exact co-ordinates of ambulance using GPS
+
+Fully automated system
+
+Can take several measurements
+
+# INTRODUCTION
+
+Three main functions of the device 
+
+1) Patient health monitoring 
+2) Location tracking
+3) Send real time data to the hospital
+
+
+# SOLUTION ARCHITECTURE
+![SolutionArchitecture drawio (1)](https://user-images.githubusercontent.com/99112218/198895367-5f687978-a121-4d50-b8ab-266e6b5376eb.png)
+
+
+
 
