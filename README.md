@@ -58,12 +58,15 @@ Three main functions of the device
 # SECURITY CONCERNS
 
 Authentication
+
 User1 & User2 should enter the password to get access to the device and the monitoring system respectively.
 
 Encryption
+
 Communication between IoT device and cloud will be encrypted (AWS Encryption SDK)
 
 Firewall
+
 Relevant Firewalls will be configured to  ESP8266 wifi module
 
 
