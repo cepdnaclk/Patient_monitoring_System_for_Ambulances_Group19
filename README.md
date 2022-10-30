@@ -42,6 +42,13 @@ Three main functions of the device
 # SOLUTION ARCHITECTURE
 ![SolutionArchitecture drawio (1)](https://user-images.githubusercontent.com/99112218/198895367-5f687978-a121-4d50-b8ab-266e6b5376eb.png)
 
+# Hardware Components
+
+1) Arduino UNO ATMega328P
+2) GPS Modem (NEO6MV2)
+3) ESP8266 Wifi Module
+
+
 
 
 
