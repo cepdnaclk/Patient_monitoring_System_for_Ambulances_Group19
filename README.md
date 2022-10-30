@@ -70,8 +70,16 @@ Firewall
 Relevant Firewalls will be configured to  ESP8266 wifi module
 
 
+# ADDITIONAL FEATURES
+
+Sending personal details of the patient to the hospital
+
+Informing initial health conditions of the patient through the device itself 
+
+According to the availability of the hospital ambulance can choose the nearest hospital
 
 
+# ESTIMATED BUDGET 
 
 
 
