@@ -1,6 +1,7 @@
 # Patient_monitoring_System_for_Ambulances_Group19
 This is an IoT based real time patient monitoring device along with the ambulance location tracking system.
 
+[Link to the project page](https://cepdnaclk.github.io/Patient_monitoring_System_for_Ambulances_Group19/)
 # PROBLEM
 What can happen if ambulance arrives late at the emergency case ?
 
