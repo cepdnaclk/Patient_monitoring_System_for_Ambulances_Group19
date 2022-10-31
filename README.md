@@ -79,7 +79,7 @@ Informing initial health conditions of the patient through the device itself
 According to the availability of the hospital ambulance can choose the nearest hospital
 
 
-# ESTIMATED BUDGET 
+
 
 
 
